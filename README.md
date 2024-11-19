@@ -17,8 +17,8 @@
 
 
 
- https://www.figma.com/proto/T7ahhDzSx1q2AOpKqNKz85/Untitled?node-id=7-2&node-type=frame&t=cIQDMUXyRp53myHI-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
+- Prototype for desktop view:[ netflix redesign link](https://www.figma.com/proto/T7ahhDzSx1q2AOpKqNKz85/Untitled?node-id=7-2&node-type=frame&t=cIQDMUXyRp53myHI-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)
 
 ## Playing a prototype on desktop
 
